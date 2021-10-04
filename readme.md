@@ -24,6 +24,7 @@ List of DAO's
 - [coinmarketcap.com/view/dao/](https://coinmarketcap.com/view/dao/)
 - [defirate.com](https://defirate.com/daos/)
 - [https://ecosystem.daoincubator.org/wiki/dao](https://ecosystem.daoincubator.org/wiki/dao)
+- [https://openorgs.info/](https://openorgs.info/)
 
 
 ## Vote Tools
