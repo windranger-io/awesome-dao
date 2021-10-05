@@ -90,6 +90,8 @@ List of DAO's
 ## Dashobards
 - [my-dao-dashboard](https://github.com/my-dao-dashboard)
 - [Maker governance dashboard](https://github.com/protofire/maker-governance-dashboard)
+- [Dune analytics](https://dune.xyz) *Free crypto analytics by and for the community*
+
 ## Awesome Lists
 Other Awesome related lists
 - [Awesome Decentralized Finance](https://github.com/zeriontech/awesome-decentralized-finance)
