@@ -83,7 +83,13 @@ List of DAO's
 - [Aave js](https://github.com/aave/aave-js)
 - [Aave governance crosschain bridges](https://github.com/aave/governance-crosschain-bridges)
 - [pooltogether-community-ui](https://github.com/pooltogether/pooltogether-community-ui)
+- [https://github.com/DemocracyEarth/dao](https://github.com/DemocracyEarth/dao) *Minimal Quadratic Voting DAO.*
+- [Moloch](https://github.com/MolochVentures/moloch)
+- [DaoHaus app](https://github.com/HausDAO/daohaus-app)
 
+## Dashobards
+- [my-dao-dashboard](https://github.com/my-dao-dashboard)
+- [Maker governance dashboard](https://github.com/protofire/maker-governance-dashboard)
 ## Awesome Lists
 Other Awesome related lists
 - [Awesome Decentralized Finance](https://github.com/zeriontech/awesome-decentralized-finance)
