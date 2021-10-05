@@ -48,6 +48,12 @@ List of DAO's
 - [buidlguidl.com](https://buidlguidl.com/)
 - [eth.build](https://eth.build/)
 
+## Contracts
+- [Lido Ethereum Liquid Staking Protocol](https://github.com/lidofinance/lido-dao)
+- [PoolTogether Prize Savings Protocol](https://github.com/pooltogether/pooltogether-pool-contracts)
+- [Yearn strategies](https://github.com/yearn/strategies-keep3r)
+- [sushiswap contracts](https://dev.sushi.com/sushiswap/contracts) 
+    - [code contracts](https://github.com/sushiswap/sushiswap/tree/canary/contracts)
 ## Tresaury
 - [ldo purchase executor](https://github.com/lidofinance/ldo-purchase-executor) *Contract for purchasng LDO for ETH fo the DAO Treasury*
 - [Aragon conviction voting app](https://github.com/1Hive/conviction-voting-app) *Aragon app used to collectively allocate funds from a shared treasury*
@@ -76,6 +82,7 @@ List of DAO's
 - [Aave protocol](https://github.com/aave/aave-protocol)
 - [Aave js](https://github.com/aave/aave-js)
 - [Aave governance crosschain bridges](https://github.com/aave/governance-crosschain-bridges)
+- [pooltogether-community-ui](https://github.com/pooltogether/pooltogether-community-ui)
 
 ## Awesome Lists
 Other Awesome related lists
