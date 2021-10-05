@@ -14,6 +14,7 @@
 - [Makers](#makers)
 - [DAO Creation](#dao-creation)
 - [DAO Tools](#dao-tools)
+- [Awesome lists](#awesome-lists)
 
 
 ## Directories
@@ -75,6 +76,12 @@ List of DAO's
 - [Aave protocol](https://github.com/aave/aave-protocol)
 - [Aave js](https://github.com/aave/aave-js)
 - [Aave governance crosschain bridges](https://github.com/aave/governance-crosschain-bridges)
+
+## Awesome Lists
+Other Awesome related lists
+- [Awesome Decentralized Finance](https://github.com/zeriontech/awesome-decentralized-finance)
+- [Awesome Cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency)
+- [Awesome Ethereum](https://github.com/ttumiel/Awesome-Ethereum)
 
 ## Contribute
 
