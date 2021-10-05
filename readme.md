@@ -14,6 +14,7 @@
 - [Makers](#makers)
 - [DAO Creation](#dao-creation)
 - [DAO Tools](#dao-tools)
+- [Dashboards](#dashboards)
 - [Awesome lists](#awesome-lists)
 
 
@@ -87,7 +88,7 @@ List of DAO's
 - [Moloch](https://github.com/MolochVentures/moloch)
 - [DaoHaus app](https://github.com/HausDAO/daohaus-app)
 
-## Dashobards
+## Dashboards
 - [my-dao-dashboard](https://github.com/my-dao-dashboard)
 - [Maker governance dashboard](https://github.com/protofire/maker-governance-dashboard)
 - [Dune analytics](https://dune.xyz) *Free crypto analytics by and for the community*
