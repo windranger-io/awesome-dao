@@ -87,6 +87,7 @@ List of DAO's
 - [https://github.com/DemocracyEarth/dao](https://github.com/DemocracyEarth/dao) *Minimal Quadratic Voting DAO.*
 - [Moloch](https://github.com/MolochVentures/moloch)
 - [DaoHaus app](https://github.com/HausDAO/daohaus-app)
+- [Polybase](https://github.com/polybase)
 
 ## Dashboards
 - [my-dao-dashboard](https://github.com/my-dao-dashboard)
